@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Gregorf02
+- 👀 I’m interested in IA algorithm and coding challenge like the advent of code
+- 🌱 I’m currently learning python
+- 📫 This is my mail addres: antonazzi.gregorio@gmail.com
